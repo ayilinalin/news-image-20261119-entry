@@ -1,8 +1,8 @@
 # Front Page — Thursday 19 November 2026
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python 3.13](https://img.shields.io/badge/Python-3.13-blue.svg)](main.py)
-[![Image: 1024×1024 PNG](https://img.shields.io/badge/Image-1024%C3%971024%20PNG-green.svg)](entry.png)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/ayilinalin/news-image-20261119-entry/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/ayilinalin/news-image-20261119-entry/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 Entry for the [make.fun](https://make.fun) bounty
 [`news-image-20261119`](https://make.fun/bounty/news-image-20261119):
@@ -37,3 +37,7 @@ Output: `entry.png` — 1024×1024 PNG, 983,206 bytes (under the 1 MiB cap).
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
